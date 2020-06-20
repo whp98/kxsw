@@ -31,7 +31,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "api.intellij.xyz"
+          "serverName": "xxxx"
         },
         "tcpSettings": null,
         "kcpSettings": null,
@@ -39,7 +39,7 @@
           "connectionReuse": true,
           "path": "/hls/cctv1.m3u8",
           "headers": {
-            "Host": "api.intellij.xyz"
+            "Host": "xxxxx"
           }
         },
         "httpSettings": null,
